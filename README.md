@@ -1,9 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=2196F3&width=600&lines=Hi%2C+I'm+Mohammad+Mehdi+Hasan;CS+%26+Engineering+Student+%40+Amity;AI+%26+Mobile+Software+Architect;Creator+of+AIFinSys" alt="Mohammad Mehdi Hasan"/>
-</a>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/MohdMehdiHasan/MohdMehdiHasan/main/assets/terminal.gif" alt="Mohammad Mehdi Hasan Terminal Bio GIF" width="100%" />
 </div>
