@@ -7,13 +7,13 @@ Computer Science & Engineering student at **Amity University** specializing in *
 
 - 🛠️ **Aspiring AI Engineer**: Passionate about building privacy-first local LLM workflows, vector search pipelines, and multi-tier AI architectures.
 - 🚀 **Currently Working On**: [AIFinSys](https://github.com/MohdMehdiHasan/Aifinsys-) — Privacy-focused expense manager powered by Flutter, FastAPI, Qdrant Vector Engine, and local Qwen 2.5 LLMs.
-- 💬 **Ask me about**: Python, PyTorch, Local LLMs (Ollama/Qwen), RAG, TFLite, FastAPI, Flutter.
+- 💬 **Ask me about**: Python, PyTorch, Local LLMs (Ollama/Qwen), RAG Architecture, TFLite, FastAPI, Flutter.
 - 📫 **How to reach me**: 
 
 ---
 
-### 🚀 Main Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,postgres,mongodb,supabase,flutter,dart,git,github,vscode,androidstudio,linux,cpp,c,postman,docker,html,css)](https://skillicons.dev)
+### 🧠 Core AI & ML Skills
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,postgres,supabase,flutter,dart,git,github,vscode,linux,cpp,c)](https://skillicons.dev)
 
 ### 📚 Currently Exploring
 [![Learning](https://skillicons.dev/icons?i=aws,kubernetes,redis)](https://skillicons.dev)
