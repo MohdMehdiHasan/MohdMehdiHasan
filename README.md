@@ -3,16 +3,17 @@
 </div>
 
 ### 👨‍💻 About Me
-Computer Science & Engineering student at **Amity University** specializing in **Artificial Intelligence**, **On-Device ML**, and **Mobile Software Architecture**.
+Computer Science & Engineering student at **Amity University** specializing in **Artificial Intelligence**, **Large Language Models (LLMs)**, **RAG Systems**, and **On-Device Machine Learning**.
 
-- 🔭 **Featured Project**: [AIFinSys](https://github.com/MohdMehdiHasan/Aifinsys-) — Privacy-focused mobile expense manager powered by Flutter, FastAPI, and local Qwen 2.5 AI.
-- 💬 **Ask me about**: Flutter, Python, FastAPI, TFLite, Local LLMs, Clean Architecture.
+- 🛠️ **Aspiring AI Engineer**: Passionate about building privacy-first local LLM workflows, vector search pipelines, and multi-tier AI architectures.
+- 🚀 **Currently Working On**: [AIFinSys](https://github.com/MohdMehdiHasan/Aifinsys-) — Privacy-focused expense manager powered by Flutter, FastAPI, Qdrant Vector Engine, and local Qwen 2.5 LLMs.
+- 💬 **Ask me about**: Python, PyTorch, Local LLMs (Ollama/Qwen), RAG, TFLite, FastAPI, Flutter.
 - 📫 **How to reach me**: 
 
 ---
 
 ### 🚀 Main Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,py,fastapi,tensorflow,postgres,mongodb,supabase,git,github,vscode,androidstudio,linux,cpp,c,postman,docker,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,postgres,mongodb,supabase,flutter,dart,git,github,vscode,androidstudio,linux,cpp,c,postman,docker,html,css)](https://skillicons.dev)
 
 ### 📚 Currently Exploring
 [![Learning](https://skillicons.dev/icons?i=aws,kubernetes,redis)](https://skillicons.dev)
@@ -36,7 +37,7 @@ Computer Science & Engineering student at **Amity University** specializing in *
 
 ### 💼 Employer / Recruiter?
 > [!IMPORTANT]  
-> 🎓 **Computer Science & Engineering Undergraduate** actively seeking Software Engineering & AI/ML opportunities.  
+> 🎓 **Aspiring AI & LLM Engineer** actively seeking AI/ML Software Engineering opportunities.  
 > 🔗 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/mohammad-mehdi-hasan-a34695202/) or explore my repositories!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" alt="footer"/>
