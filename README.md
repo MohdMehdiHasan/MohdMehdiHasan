@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=2196F3&width=600&lines=Hi%2C+I'm+Mohammad+Mehdi+Hasan;CS+%26+Engineering+Student+%40+Amity;AI+%26+Mobile+Software+Architect;Creator+of+AIFinSys" alt="Mohammad Mehdi Hasan"/>
 </a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohdMehdiHasan/MohdMehdiHasan/main/assets/terminal.svg" alt="Mohammad Mehdi Hasan Terminal Bio" width="100%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MohdMehdiHasan/MohdMehdiHasan/main/assets/terminal.gif" alt="Mohammad Mehdi Hasan Terminal Bio GIF" width="100%" />
+</div>
 
 ### 👨‍💻 About Me
 Computer Science & Engineering student at **Amity University** specializing in **Artificial Intelligence**, **On-Device ML**, and **Mobile Software Architecture**.
