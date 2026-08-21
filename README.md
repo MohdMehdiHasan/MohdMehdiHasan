@@ -3,11 +3,11 @@
 </div>
 
 ### 👨‍💻 About Me
-Computer Science & Engineering student at **Amity University** specializing in **Artificial Intelligence**, **Large Language Models (LLMs)**, **RAG Systems**, and **On-Device Machine Learning**.
+Computer Science & Engineering student at **Amity University** specializing in **Artificial Intelligence**, **Large Language Models (LLMs)**, **LLM Fine-Tuning (Unsloth/QLoRA)**, and **Data Science**.
 
-- 🛠️ **Aspiring AI Engineer**: Passionate about building privacy-first local LLM workflows, vector search pipelines, and multi-tier AI architectures.
+- 🛠️ **Aspiring AI Engineer**: Passionate about fine-tuning local LLMs, building RAG systems, and implementing high-performance AI architectures.
 - 🚀 **Currently Working On**: [AIFinSys](https://github.com/MohdMehdiHasan/Aifinsys-) — Privacy-focused expense manager powered by Flutter, FastAPI, Qdrant Vector Engine, and local Qwen 2.5 LLMs.
-- 💬 **Ask me about**: Python, PyTorch, Local LLMs (Ollama/Qwen), RAG Architecture, TFLite, FastAPI, Flutter.
+- 💬 **Ask me about**: Python, PyTorch, LLM Fine-Tuning (Unsloth, LoRA, QLoRA), RAG Architecture, Data Science, FastAPI, Flutter.
 - 📫 **How to reach me**: 
 
 ---
@@ -15,13 +15,13 @@ Computer Science & Engineering student at **Amity University** specializing in *
 ### 🧠 Core AI & ML Skills
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,postgres,supabase,flutter,dart,git,github,vscode,linux,cpp,c)](https://skillicons.dev)
 
-### 🚀 Currently Exploring & Building (AI & LLM Focus)
+### 🚀 Currently Exploring & Building (AI, LLM Fine-Tuning & Data Science)
 <p align="left">
+  <img src="https://img.shields.io/badge/Fine--Tuning-Unsloth_%26_HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Optimization-LoRA_%26_QLoRA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-Pandas_%26_NumPy-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Local_LLMs-Ollama_%26_Qwen_2.5-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Architecture-Retrieval_Augmented_Gen-1E88E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector_Database-Qdrant_%26_Embeddings-DC382D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Frameworks-LangChain_%26_LlamaIndex-00A67E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/On--Device_AI-TFLite_Quantization-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Architecture-Qdrant_%26_Vector_DB-1E88E5?style=for-the-badge" />
 </p>
 
 ---
