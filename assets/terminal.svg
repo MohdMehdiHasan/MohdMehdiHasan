@@ -1,0 +1,110 @@
+<svg fill="none" viewBox="0 0 800 420" width="800" height="420" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .terminal-container {
+          background-color: #0d1117;
+          border: 1px solid #30363d;
+          border-radius: 10px;
+          font-family: 'Fira Code', 'Courier New', Monaco, monospace;
+          padding: 0;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+          color: #c9d1d9;
+          overflow: hidden;
+          width: 798px;
+          height: 418px;
+        }
+        .header {
+          background-color: #161b22;
+          padding: 10px 15px;
+          display: flex;
+          align-items: center;
+          border-bottom: 1px solid #30363d;
+        }
+        .buttons {
+          display: flex;
+          gap: 8px;
+        }
+        .btn {
+          width: 12px;
+          height: 12px;
+          border-radius: 50%;
+          display: inline-block;
+        }
+        .close { background-color: #ff5f56; }
+        .minimize { background-color: #ffbd2e; }
+        .maximize { background-color: #27c93f; }
+        .title {
+          margin-left: 15px;
+          font-size: 13px;
+          color: #8b949e;
+          font-weight: 600;
+        }
+        .body {
+          padding: 20px;
+          font-size: 14px;
+          line-height: 1.6;
+        }
+        .prompt { color: #58a6ff; font-weight: bold; }
+        .command { color: #79c0ff; }
+        .keyword { color: #ff7b72; }
+        .string { color: #a5d6ff; }
+        .number { color: #79c0ff; }
+        .success { color: #56d364; font-weight: bold; }
+        .cursor {
+          display: inline-block;
+          width: 8px;
+          height: 15px;
+          background-color: #58a6ff;
+          vertical-align: middle;
+          animation: blink 1s infinite;
+        }
+        @keyframes blink {
+          0%, 100% { opacity: 1; }
+          50% { opacity: 0; }
+        }
+      </style>
+
+      <div class="terminal-container">
+        <div class="header">
+          <div class="buttons">
+            <span class="btn close"></span>
+            <span class="btn minimize"></span>
+            <span class="btn maximize"></span>
+          </div>
+          <span class="title">mohammad@macbook:~ (zsh)</span>
+        </div>
+        <div class="body">
+          <div>
+            <span class="prompt">mohammad@macbook:~$</span> <span class="command">whoami</span>
+          </div>
+          <div style="color: #e6edf3; margin-bottom: 12px;">
+            Mohammad Mehdi Hasan (AI &amp; Mobile Software Architect)
+          </div>
+
+          <div>
+            <span class="prompt">mohammad@macbook:~$</span> <span class="command">cat bio.json</span>
+          </div>
+          <div style="color: #79c0ff; margin-bottom: 12px;">
+            {<br/>
+            &nbsp;&nbsp;<span class="keyword">"name"</span>: <span class="string">"Mohammad Mehdi Hasan"</span>,<br/>
+            &nbsp;&nbsp;<span class="keyword">"education"</span>: <span class="string">"Computer Science &amp; Engineering @ Amity University"</span>,<br/>
+            &nbsp;&nbsp;<span class="keyword">"featured_project"</span>: <span class="string">"AIFinSys (Privacy-First Local AI Expense Tracker)"</span>,<br/>
+            &nbsp;&nbsp;<span class="keyword">"interests"</span>: [<span class="string">"On-Device ML"</span>, <span class="string">"Flutter Clean Arch"</span>, <span class="string">"Local LLMs"</span>]<br/>
+            }
+          </div>
+
+          <div>
+            <span class="prompt">mohammad@macbook:~$</span> <span class="command">./check_status.sh</span>
+          </div>
+          <div>
+            <span class="success">[✓] Flutter &amp; Dart</span> ....... <span class="string">ACTIVE</span><br/>
+            <span class="success">[✓] FastAPI &amp; Python</span> ..... <span class="string">ACTIVE</span><br/>
+            <span class="success">[✓] Local AI (TFLite/Qwen)</span> <span class="string">ACTIVE</span><br/>
+            <span class="success">🚀 Status: Open for Software Engineering Opportunities!</span> <span class="cursor"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
