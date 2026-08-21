@@ -19,19 +19,6 @@ Computer Science & Engineering student at **Amity University** specializing in *
 
 ---
 
-### 📊 GitHub Stats & Contribution Streaks
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohdMehdiHasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdMehdiHasan&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdMehdiHasan&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
-
----
-
 ### 🌐 Connect With Me!
 <div>
   <a href="https://www.linkedin.com/in/mohammad-mehdi-hasan-a34695202/" target="_blank">
