@@ -1,8 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header" alt="header"/> 
-
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=header" alt="header"/><br/>
   <img src="https://raw.githubusercontent.com/MohdMehdiHasan/MohdMehdiHasan/main/assets/terminal.gif" alt="Mohammad Mehdi Hasan Terminal Bio GIF" width="100%" />
-</div>
+</p>
 
 ### 👨‍💻 About Me
 Computer Science & Engineering student at **Amity University** specializing in **Artificial Intelligence**, **On-Device ML**, and **Mobile Software Architecture**.
