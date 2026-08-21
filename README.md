@@ -17,6 +17,26 @@ Computer Science & Engineering student at **Amity University** specializing in *
 
 ---
 
+### 🏆 GitHub Achievements & Badges
+
+<div align="center">
+  <a href="https://github.com/MohdMehdiHasan?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=MohdMehdiHasan&theme=tokyonight&column=4&margin-w=15" alt="MohdMehdiHasan GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
+
+| Achievement Badge | Name | Description | Status |
+| :---: | :--- | :--- | :---: |
+| 🦈 | **Pull Shark** | Opened pull requests that have been merged | **Unlocked** |
+| ⚡ | **Quickdraw** | Closed an issue or pull request within 5 minutes | **Unlocked** |
+| 🤝 | **Pair Extraordinaire** | Co-authored a commit in a merged pull request | **Unlocked** |
+| 🚀 | **YOLO** | Merged a pull request without code review | **Unlocked** |
+| 👑 | **PRO** | GitHub Pro Developer Member | **Unlocked** |
+
+---
+
 ### 🚀 Main Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,py,fastapi,tensorflow,postgres,mongodb,supabase,git,github,vscode,androidstudio,linux,cpp,c,postman,docker,html,css)](https://skillicons.dev)
 
