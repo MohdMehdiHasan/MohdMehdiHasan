@@ -5,7 +5,7 @@
 </a>
 
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Mohammad Mehdi Hasan Terminal Bio" width="100%" />
+  <img src="https://raw.githubusercontent.com/MohdMehdiHasan/MohdMehdiHasan/main/assets/terminal.svg" alt="Mohammad Mehdi Hasan Terminal Bio" width="100%" />
 </p>
 
 ### 👨‍💻 About Me
