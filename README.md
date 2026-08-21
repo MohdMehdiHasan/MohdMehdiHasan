@@ -15,8 +15,14 @@ Computer Science & Engineering student at **Amity University** specializing in *
 ### 🧠 Core AI & ML Skills
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,postgres,supabase,flutter,dart,git,github,vscode,linux,cpp,c)](https://skillicons.dev)
 
-### 📚 Currently Exploring
-[![Learning](https://skillicons.dev/icons?i=aws,kubernetes,redis)](https://skillicons.dev)
+### 🚀 Currently Exploring & Building (AI & LLM Focus)
+<p align="left">
+  <img src="https://img.shields.io/badge/Local_LLMs-Ollama_%26_Qwen_2.5-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Architecture-Retrieval_Augmented_Gen-1E88E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Database-Qdrant_%26_Embeddings-DC382D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Frameworks-LangChain_%26_LlamaIndex-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/On--Device_AI-TFLite_Quantization-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
 ---
 
